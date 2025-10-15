@@ -78,12 +78,12 @@ In the modal/expanded view, display the following:
 
 ## Submission Instructions
 
-1. **Fork** the provided GitHub repository and push your solution.
+1. Create a **public GitHub repository** for your solution.  
 2. Include a short **README** that explains:
    - How to run the project  
    - What you implemented (and any bonus features)  
-   - Any trade-offs or design choices you made
-3. Send us your **GitHub repository link** once completed.
+   - Any trade-offs or design choices you made  
+3. Send us your **GitHub repository link** once you’ve completed the assignment.
 
 ---
 
