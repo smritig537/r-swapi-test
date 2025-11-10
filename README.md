@@ -72,7 +72,6 @@ In the modal/expanded view, display the following:
 - Type your props clearly (with JavaScript or TypeScript).
 - Maintain a **clean folder structure** and **meaningful variable names**.
 - Handle **loading**, **empty**, and **error** states gracefully.
-- Submit within **3 days** of receiving the task (plus 1 day if received after **3 PM IST**).
 
 ---
 
